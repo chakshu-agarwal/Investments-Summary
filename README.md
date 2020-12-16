@@ -1,4 +1,4 @@
-WIP - Currently provides an output of your stock portfolio and gains on Robinhood.
+WIP - Currently writes a summary of your stock portfolio and gains on Robinhood to a spreadsheet in Google Drive
 
 # How to use it:
 1. Open the notebook in Google Colab (Colab does not cost anything; all you need is a google account)
